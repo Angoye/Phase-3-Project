@@ -102,6 +102,19 @@ Follow these steps to set up and run the project:
 2. **Model Evaluation**
    - After running the notebook, the performance of the model will be displayed using evaluation metrics like MAE, RMSE, and R-squared.
    - You can further adjust preprocessing steps or try different regression models to improve accuracy.
+  
+# Key Metrics
+MAE: [Insert value here]
+MSE: [Insert value here]
+RMSE: [Insert value here]
+R-Squared (R2): [Insert value here]
+
+# Feature Importance
+The feature importance of the model has been plotted to identify the most influential variables in predicting the sale price.
+
+# Recommendations
+Hyperparameter Tuning: It’s recommended to perform hyperparameter tuning (e.g., using GridSearchCV) to further optimize the model.
+Cross-Validation: Implement cross-validation to improve the model's robustness and reduce overfitting.
 
 ### Acknowledgments
 
