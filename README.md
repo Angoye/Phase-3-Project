@@ -1,21 +1,20 @@
-#Phase_3_House-Prices_Feature_engineering
+# Phase_3_House-Prices_Feature_engineering
 
-#House Prices - Advanced Regression Techniques
-#Overview
+#  Prices - Advanced Regression Techniques
+# Overview
 This project uses the Ames Housing dataset to build a regression model to predict house prices. The analysis focuses on data preprocessing, feature engineering, and creating a regression model to estimate the sale price of properties.
 
 #Objectives
-#Goals
-Predict the SalePrice of houses using various features, including:
+1. Predict the SalePrice of houses using various features, such as:
 Numerical features: LotArea, GrLivArea, TotalBsmtSF.
 Categorical features: Neighborhood, GarageType, HouseStyle.
 Ordinal features: OverallQual, ExterQual.
-Apply essential data preprocessing techniques for machine learning.
-Key Features
+2. Apply essential data preprocessing techniques for machine learning.
+# Key Features
 Numerical: Continuous and discrete variables representing property details.
 Categorical: Descriptive categories for attributes such as neighborhood and style.
 Ordinal: Ordered features like quality ratings.
-Project Steps
+# Project Steps
 1. Problem Understanding
 Define the project objectives and dataset structure.
 Highlight key considerations for preprocessing and feature selection.
