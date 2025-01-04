@@ -1,6 +1,4 @@
-# Phase_3_House-Prices_Feature_Engineering
-
-## Prices - Advanced Regression Techniques
+# Phase 3 Project: Predicting Housing Prices Using Regression Models
 
 ### Overview
 
