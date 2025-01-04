@@ -1,13 +1,11 @@
-Phase_3_House-Prices_Feature_engineering
-Writing the README content into a README.md file
-readme_content = """
+#Phase_3_House-Prices_Feature_engineering
 
-House Prices - Advanced Regression Techniques
-Overview
-This project involves building a regression model to predict house prices using the Ames Housing dataset. The analysis focuses on data preprocessing, feature engineering, and building a regression model to estimate the SalePrice of properties.
+#House Prices - Advanced Regression Techniques
+#Overview
+This project uses the Ames Housing dataset to build a regression model to predict house prices. The analysis focuses on data preprocessing, feature engineering, and creating a regression model to estimate the sale price of properties.
 
-Objectives
-Goals
+#Objectives
+#Goals
 Predict the SalePrice of houses using various features, including:
 Numerical features: LotArea, GrLivArea, TotalBsmtSF.
 Categorical features: Neighborhood, GarageType, HouseStyle.
