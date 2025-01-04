@@ -104,10 +104,14 @@ Follow these steps to set up and run the project:
    - You can further adjust preprocessing steps or try different regression models to improve accuracy.
   
 # Key Metrics
-MAE: [Insert value here]
-MSE: [Insert value here]
-RMSE: [Insert value here]
-R-Squared (R2): [Insert value here]
+
+MAE: 2,758.93
+
+MSE: 17,047,096.68
+
+RMSE: 4,130.74
+
+R-Squared (R2): 0.916
 
 # Feature Importance
 The feature importance of the model has been plotted to identify the most influential variables in predicting the sale price.
